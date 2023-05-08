@@ -7,5 +7,5 @@ def polygon_area(vertices):
     return abs(area / 2)
 
 
-if __name__ == "__main__": 
-    area = polygon_area(vertices) 
+if __name__ == "__main__":
+    area = polygon_area(vertices)

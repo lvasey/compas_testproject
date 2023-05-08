@@ -1,5 +1,6 @@
 from compas.plugins import plugin
 
-@plugin(category ="install")
+
+@plugin(category="install")
 def installable_rhino_packages():
     return ["compas_testproject"]
